@@ -18,7 +18,7 @@
 
 - 📫 How to reach me **vidhi.2023mca1057@kiet.edu**
 
-- 📄 Know about my experiences [https://docs.google.com/document/d/1GGXaD_I30FCd2QfC3FuKD5H2XUC4r16gQWORkQt7g6Y/edit?usp=sharing](https://docs.google.com/document/d/1GGXaD_I30FCd2QfC3FuKD5H2XUC4r16gQWORkQt7g6Y/edit?usp=sharing)
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
