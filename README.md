@@ -35,7 +35,7 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=vidhiaggarwal2000&show_icons=true&locale=en&layout=compact" alt="vidhiaggarwal2000" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vidhiaggarwal2000&show_icons=true&locale=en" alt="vidhiaggarwal2000" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vidhiaggarwal2000&show_icons=true&locale=en&theme=dark" alt="vidhiaggarwal2000" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vidhiaggarwal2000&" alt="vidhiaggarwal2000" /></p>
 <p align="center"> 
