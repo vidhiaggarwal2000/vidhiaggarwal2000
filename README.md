@@ -18,8 +18,7 @@
 
 - 📫 How to reach me **vidhi.2023mca1057@kiet.edu**
 
-<img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/gINV2UOvgvJ4KBOWBL/giphy.gif">
-
+<img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/349qKnoIBHK1i/giphy.gif">
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/vidhi aggarwal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="vidhi aggarwal" height="30" width="40" /></a>
