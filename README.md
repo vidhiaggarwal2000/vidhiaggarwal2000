@@ -39,3 +39,9 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vidhiaggarwal2000&show_icons=true&locale=en" alt="vidhiaggarwal2000" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vidhiaggarwal2000&" alt="vidhiaggarwal2000" /></p>
+<p align="center"> 
+ V.I.S.I.T.O.R.S<br>
+  <img src="https://profile-counter.glitch.me/Vaibhav-2717/count.svg" />
+</p>
+
+<img src="https://activity-graph.herokuapp.com/graph?username=Vaibhav-2717&theme=react-dark&area=true&hide_border=true" width="100%">
