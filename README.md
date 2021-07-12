@@ -18,7 +18,7 @@
 
 - 📫 How to reach me **vidhi.2023mca1057@kiet.edu**
 
-
+<img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/gINV2UOvgvJ4KBOWBL/giphy.gif">
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
