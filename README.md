@@ -1,9 +1,17 @@
+<div align=center>
+<a href="https://www.hackerrank.com/agarwalvidhi206"><img src="https://github.com/Psingh12354/Java-HackeRank/blob/master/hack.png" width="35%"></img></a>
+</div>
+<div float=left align=center>
+  <a href="https://www.hackerrank.com/certificates/fa99b604c238"><img src="java hackerrank.png" width="25%" /></a>
+   <a href="https://www.hackerrank.com/certificates/fa99b604c238"><img src="SQL(basic)hackerrank.png" width="25%" /></a>
+   <a href="https://www.hackerrank.com/certificates/fa99b604c238"><img src="SQL(intermediate).png" width="25%" /></a>
+
 </div>
 <div float=left align=center>
   <img src="" width="80%" />
   <img src="certificates.png" width="80%" />
 </div>
-[![MasterHead](https://media-exp3.licdn.com/dms/image/C4E16AQGDLURwP-MxHQ/profile-displaybackgroundimage-shrink_350_1400/0/1624432677770?e=1631750400&v=beta&t=0LohX99JFWfYQy8ZEmLiw3vcqpkR56mig0tvJ7gfNOM)](https://vidhiaggarwal2000.github.io)
+
 <h1 align="center">Hi 👋, I'm Vidhi Aggarwal</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
