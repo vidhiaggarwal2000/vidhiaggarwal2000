@@ -56,4 +56,4 @@
   <img src="https://profile-counter.glitch.me/Vaibhav-2717/count.svg" />
 </p>
 
-<img src="https://activity-graph.herokuapp.com/graph?username=Vaibhav-2717&theme=react-dark&area=true&hide_border=true" width="100%">
+<img src="https://activity-graph.herokuapp.com/graph?username=vidhiaggarwal2000&theme=react-dark&area=true&hide_border=true" width="100%">
