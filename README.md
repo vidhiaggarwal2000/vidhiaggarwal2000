@@ -8,7 +8,6 @@
 
 </div>
 <div float=left align=center>
-  <img src="" width="80%" />
   <img src="certificates.png" width="80%" />
 </div>
 
